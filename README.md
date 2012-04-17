@@ -1,3 +1,3 @@
 MooWindow is simple .....
 
-![Screenshot](http://laryon.hu/moowindow/screenshot.jpg)
+![Screenshot](http://laryon.hu/moowindow/screenshot.png)
